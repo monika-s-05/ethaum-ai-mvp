@@ -1,0 +1,32 @@
+const tools = [
+  {
+    id: 1,
+    name: "MarketGenius AI",
+    category: "Marketing",
+    rating: 4.6,
+    price: "$49/month",
+    stage: "Series A",
+    description: "AI-powered marketing analytics and growth insights.",
+    features: ["Campaign Analysis", "Customer Segmentation", "AI Insights"],
+  },
+  {
+    id: 2,
+    name: "HireSmart AI",
+    category: "HR",
+    rating: 4.4,
+    price: "$39/month",
+    stage: "Series B",
+    description: "AI recruitment platform for screening and hiring.",
+    features: ["Resume Screening", "Interview AI", "Bias Reduction"],
+  },
+  {
+    id: 3,
+    name: "DevBoost AI",
+    category: "Developer Tools",
+    rating: 4.8,
+    price: "$59/month",
+    stage: "Series C",
+    description: "AI code review and optimization platform.",
+    features: ["Code Review", "Bug Detection", "Performance Optimization"],
+  },
+];
