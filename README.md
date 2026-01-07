@@ -15,4 +15,4 @@ EthAum.ai is an AI-powered SaaS marketplace combining features of Product Hunt, 
 - GitHub Pages hosting
 
 ## Live Demo
-https://USERNAME.github.io/ethaam-ai-mvp/
+https://monika-s-05.github.io/ethaum-ai-mvp/
